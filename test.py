@@ -1,5 +1,5 @@
 import time
-a = input("enter a random text: ")
+a = 7
 while True:
   print(a)
   time.sleep(5)
