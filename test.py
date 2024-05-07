@@ -29,7 +29,7 @@ def send_email(sender_email, sender_password, receiver_email, subject, body):
 
 while True:
   time.sleep(1)
-  sender_email = "rishavi080720002@gmail.com"
+  sender_email = "rishavi08072002@gmail.com"
   sender_password = "vbgi mtxh gnfw fzoq"
   receiver_email = "avinash9588@gmail.com"
   subject = "TRADE SETUP SUCESSFULL BUDDY,ALL SET TO GOT"
